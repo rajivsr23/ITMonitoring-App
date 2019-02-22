@@ -1,8 +1,8 @@
 {
-  "name": "boilerplate-react-app",
+  "name": "itmonitoring-app",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "Ricky Raghavan",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
