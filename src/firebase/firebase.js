@@ -14,7 +14,8 @@ firebase.initializeApp(config);
 const database = firebase.database();
 
 database.ref().set({
-name:'Ricky Raghavan'
+name:'Ricky Raghavan',
+age: 26
 
 });
 const googleAuthProvider = new firebase.auth.GoogleAuthProvider();
